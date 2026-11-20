@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .serif { font-family: Georgia, 'Times New Roman', 'DejaVu Serif', serif; }
+      .sans { font-family: Arial, Helvetica, 'DejaVu Sans', sans-serif; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1024" height="1024" fill="#f7f1e3"/>
+  <rect x="10" y="10" width="1004" height="1004" fill="none" stroke="#111111" stroke-width="3"/>
+  <rect x="20" y="20" width="984" height="984" fill="none" stroke="#111111" stroke-width="1"/>
+
+  <!-- Masthead -->
+  <text x="512" y="112" text-anchor="middle" class="serif" font-size="104" font-weight="bold" fill="#111111" letter-spacing="6">THE WORLD</text>
+  <line x1="48" y1="132" x2="976" y2="132" stroke="#111111" stroke-width="3"/>
+  <line x1="48" y1="138" x2="976" y2="138" stroke="#111111" stroke-width="1"/>
+  <text x="512" y="172" text-anchor="middle" class="sans" font-size="27" font-weight="bold" fill="#b91c1c" letter-spacing="4">FRIDAY 20 NOVEMBER 2026</text>
+  <text x="512" y="200" text-anchor="middle" class="sans" font-size="17" fill="#444444" letter-spacing="3">THE DAY'S NEWS, IN ONE PICTURE  •  SIX STORIES FROM ONE DAY</text>
+
+  <!-- Hero: Kyiv -->
+  <rect x="36" y="216" width="952" height="236" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <g>
+    <rect x="36" y="216" width="400" height="236" fill="#16283f"/>
+    <rect x="36" y="396" width="400" height="56" fill="#2b5a8a"/>
+    <rect x="60" y="300" width="34" height="96" fill="#0e1a2b"/>
+    <rect x="110" y="270" width="30" height="126" fill="#0e1a2b"/>
+    <rect x="156" y="312" width="38" height="84" fill="#0e1a2b"/>
+    <rect x="210" y="282" width="30" height="114" fill="#0e1a2b"/>
+    <rect x="256" y="318" width="36" height="78" fill="#0e1a2b"/>
+    <rect x="308" y="288" width="32" height="108" fill="#0e1a2b"/>
+    <rect x="356" y="322" width="30" height="74" fill="#0e1a2b"/>
+    <rect x="60" y="300" width="34" height="10" fill="#f2c14e"/>
+    <rect x="110" y="270" width="30" height="10" fill="#f2c14e"/>
+    <rect x="210" y="282" width="30" height="10" fill="#f2c14e"/>
+    <rect x="308" y="288" width="32" height="10" fill="#f2c14e"/>
+    <path d="M 36 396 Q 130 372 220 396 T 436 396 L 436 452 L 36 452 Z" fill="#3f7fb5"/>
+    <path d="M 60 396 Q 90 378 120 396 Q 150 414 180 396" fill="none" stroke="#f7f1e3" stroke-width="5"/>
+    <path d="M 200 396 Q 230 378 260 396 Q 290 414 320 396" fill="none" stroke="#f7f1e3" stroke-width="5"/>
+    <path d="M 330 396 Q 360 378 390 396 Q 410 410 436 396" fill="none" stroke="#f7f1e3" stroke-width="5"/>
+    <line x1="120" y1="396" x2="120" y2="376" stroke="#f7f1e3" stroke-width="4"/>
+    <line x1="260" y1="396" x2="260" y2="376" stroke="#f7f1e3" stroke-width="4"/>
+    <line x1="390" y1="396" x2="390" y2="376" stroke="#f7f1e3" stroke-width="4"/>
+    <circle cx="330" cy="250" r="16" fill="#f2c14e"/>
+    <circle cx="330" cy="250" r="26" fill="none" stroke="#f2c14e" stroke-width="3"/>
+    <circle cx="330" cy="250" r="36" fill="none" stroke="#f2c14e" stroke-width="2"/>
+    <circle cx="90" cy="245" r="11" fill="#e85d3d"/>
+    <circle cx="90" cy="245" r="19" fill="none" stroke="#e85d3d" stroke-width="3"/>
+    <line x1="330" y1="250" x2="250" y2="330" stroke="#f2c14e" stroke-width="4"/>
+    <line x1="90" y1="245" x2="150" y2="320" stroke="#e85d3d" stroke-width="4"/>
+    <circle cx="60" cy="235" r="2" fill="#ffffff"/>
+    <circle cx="150" cy="228" r="2" fill="#ffffff"/>
+    <circle cx="240" cy="238" r="2" fill="#ffffff"/>
+    <circle cx="390" cy="232" r="2" fill="#ffffff"/>
+    <circle cx="410" cy="260" r="2" fill="#ffffff"/>
+    <text x="236" y="440" text-anchor="middle" class="sans" font-size="14" font-weight="bold" fill="#ffffff" letter-spacing="2">KYIV AT NIGHT</text>
+  </g>
+  <text x="464" y="248" class="sans" font-size="19" font-weight="bold" fill="#b91c1c" letter-spacing="2">UKRAINE  •  WAR IN EUROPE</text>
+  <text x="464" y="300" class="serif" font-size="52" font-weight="bold" fill="#111111">MISSILES HIT</text>
+  <text x="464" y="352" class="serif" font-size="52" font-weight="bold" fill="#111111">KYIV BRIDGES</text>
+  <text x="464" y="390" class="serif" font-size="22" fill="#222222">Russia fired ballistic missiles at Kyiv</text>
+  <text x="464" y="418" class="serif" font-size="22" fill="#222222">overnight. Three bridges over the Dnipro</text>
+  <text x="464" y="446" class="serif" font-size="22" fill="#222222">were damaged; three people were killed.</text>
+
+  <!-- Row 1 -->
+  <rect x="36" y="466" width="464" height="188" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <rect x="36" y="466" width="464" height="8" fill="#1e3a5f"/>
+  <text x="56" y="498" class="sans" font-size="17" font-weight="bold" fill="#1e3a5f" letter-spacing="2">BRITAIN AND THE EU  •  BRUSSELS</text>
+  <circle cx="414" cy="524" r="22" fill="#ffffff" stroke="#1e3a5f" stroke-width="3"/>
+  <text x="414" y="531" text-anchor="middle" class="sans" font-size="18" font-weight="bold" fill="#1e3a5f">UK</text>
+  <circle cx="468" cy="524" r="22" fill="#f2c14e" stroke="#1e3a5f" stroke-width="3"/>
+  <text x="468" y="531" text-anchor="middle" class="sans" font-size="18" font-weight="bold" fill="#1e3a5f">EU</text>
+  <text x="56" y="536" class="serif" font-size="31" font-weight="bold" fill="#111111">UK AND EU SET FOR</text>
+  <text x="56" y="572" class="serif" font-size="31" font-weight="bold" fill="#111111">YOUTH DEAL</text>
+  <text x="56" y="600" class="serif" font-size="20" fill="#222222">Up to 100,000 young people a year each</text>
+  <text x="56" y="624" class="serif" font-size="20" fill="#222222">way, aged 18 to 31, could live, work and</text>
+  <text x="56" y="646" class="serif" font-size="20" fill="#222222">study for up to three years.</text>
+
+  <rect x="524" y="466" width="464" height="188" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <rect x="524" y="466" width="464" height="8" fill="#b91c1c"/>
+  <text x="544" y="498" class="sans" font-size="17" font-weight="bold" fill="#b91c1c" letter-spacing="2">MARKETS  •  ASIA</text>
+  <polyline points="900,490 930,512 950,498 980,530" fill="none" stroke="#b91c1c" stroke-width="5"/>
+  <line x1="898" y1="536" x2="984" y2="536" stroke="#111111" stroke-width="3"/>
+  <line x1="898" y1="536" x2="898" y2="486" stroke="#111111" stroke-width="3"/>
+  <text x="544" y="536" class="serif" font-size="31" font-weight="bold" fill="#111111">ASIAN SHARES</text>
+  <text x="544" y="572" class="serif" font-size="31" font-weight="bold" fill="#111111">PLUNGE ON AI FEARS</text>
+  <text x="544" y="600" class="serif" font-size="20" fill="#222222">Stocks fell sharply across Asia on Friday.</text>
+  <text x="544" y="624" class="serif" font-size="20" fill="#222222">Taiwan's index dropped more than 2,200</text>
+  <text x="544" y="646" class="serif" font-size="20" fill="#222222">points, a day after Anthropic rose 17%.</text>
+
+  <!-- Row 2 -->
+  <rect x="36" y="668" width="464" height="188" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <rect x="36" y="668" width="464" height="8" fill="#1e6b4a"/>
+  <text x="56" y="700" class="sans" font-size="17" font-weight="bold" fill="#1e6b4a" letter-spacing="2">TAIWAN  •  TECHNOLOGY</text>
+  <g>
+    <rect x="424" y="688" width="52" height="76" rx="6" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="432" y="698" width="36" height="44" fill="#dbeafe"/>
+    <text x="450" y="730" text-anchor="middle" class="sans" font-size="30" font-weight="bold" fill="#b91c1c">!</text>
+    <line x1="438" y1="752" x2="462" y2="752" stroke="#111111" stroke-width="3"/>
+  </g>
+  <text x="56" y="738" class="serif" font-size="31" font-weight="bold" fill="#111111">TAIWAN FLAGS 2,700</text>
+  <text x="56" y="774" class="serif" font-size="31" font-weight="bold" fill="#111111">ACCOUNTS TO META</text>
+  <text x="56" y="802" class="serif" font-size="20" fill="#222222">Taipei says the accounts look like part of</text>
+  <text x="56" y="826" class="serif" font-size="20" fill="#222222">a Chinese campaign to sway local elections</text>
+  <text x="56" y="848" class="serif" font-size="20" fill="#222222">on 28 November; most listed China.</text>
+
+  <rect x="524" y="668" width="464" height="188" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <rect x="524" y="668" width="464" height="8" fill="#8a5a00"/>
+  <text x="544" y="700" class="sans" font-size="17" font-weight="bold" fill="#8a5a00" letter-spacing="2">INDONESIA AND CHINA  •  ASIA</text>
+  <g>
+    <path d="M 924 730 Q 944 718 962 730 T 986 730" fill="none" stroke="#2b5a8a" stroke-width="5"/>
+    <path d="M 924 750 Q 944 738 962 750 T 986 750" fill="none" stroke="#2b5a8a" stroke-width="5"/>
+    <circle cx="956" cy="706" r="13" fill="#f2c14e"/>
+  </g>
+  <text x="544" y="738" class="serif" font-size="31" font-weight="bold" fill="#111111">PRABOWO AND XI TALK</text>
+  <text x="544" y="774" class="serif" font-size="31" font-weight="bold" fill="#111111">SOUTH CHINA SEA</text>
+  <text x="544" y="802" class="serif" font-size="20" fill="#222222">Indonesia's president met China's leader</text>
+  <text x="544" y="826" class="serif" font-size="20" fill="#222222">on Friday to discuss the economy and</text>
+  <text x="544" y="848" class="serif" font-size="20" fill="#222222">joint development in the South China Sea.</text>
+
+  <!-- Bottom strip: Saudi Arabia -->
+  <rect x="36" y="870" width="952" height="104" fill="#111111"/>
+  <text x="56" y="904" class="serif" font-size="29" font-weight="bold" fill="#ffffff">SAUDI DEFENCES STOP HOUTHI MISSILE</text>
+  <text x="56" y="934" class="serif" font-size="20" fill="#f7f1e3">A Houthi ballistic missile aimed at the south was intercepted on Friday,</text>
+  <text x="56" y="960" class="serif" font-size="20" fill="#f7f1e3">a day after a strike damaged Riyadh's tallest tower.</text>
+
+  <text x="512" y="1002" text-anchor="middle" class="sans" font-size="15" fill="#444444" letter-spacing="2">THE WORLD  •  FRIDAY 20 NOVEMBER 2026  •  SIX STORIES FROM ONE DAY</text>
+</svg>
